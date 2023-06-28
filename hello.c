@@ -174,13 +174,15 @@ int main(void)
 
 // MARK: - 포인터 배열 
 
-    int num1 = 1, num2 = 2, num3 = 3;
-    int * arr[3] = { &num1, &num2, &num3 };
+    // int num1 = 1, num2 = 2, num3 = 3;
+    // int * arr[3] = { &num1, &num2, &num3 };
 
-    printf("주소값 : %p %p %p\n", arr[0], arr[1], arr[2]);
-    printf("값 : %d %d %d\n", *arr[0], *arr[1], *arr[2]);
+    // printf("주소값 : %p %p %p\n", arr[0], arr[1], arr[2]);
+    // printf("값 : %d %d %d\n", *arr[0], *arr[1], *arr[2]);
 
-    return 0;
+    // return 0;
+
+    
 }
 
 
